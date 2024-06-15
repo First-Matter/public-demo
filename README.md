@@ -3,11 +3,11 @@
 | Information | Details |
 |-------------|---------|
 | **Deployed URL** | [View the deployed site](https://First-Matter.github.io/public-demo) |
-| **Commit** | 312374aa2773672f9c8f9ca2d3fe37fba5eac234 |
+| **Commit** | 69053e93999f7ba47839e608a8f514c6c1a66f7b |
 | **Branch** | main |
 | **Workflow** | Build and Deploy to GitHub Pages |
 | **Job** | build |
-| **Run Number** | 3 |
-| **Run ID** | 9527099316 |
+| **Run Number** | 4 |
+| **Run ID** | 9527793566 |
 
 To request access to the [source code](https://github.com/First-Matter/flappy-jam-2024), please contact the repository owner.
